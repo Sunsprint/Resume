@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin: 0;
+  margin: 1px 0 0;
 }
 
 .u-section-1 .u-social-icons-1 {
@@ -12,7 +12,7 @@
   min-height: 16px;
   width: 116px;
   min-width: 68px;
-  margin: -49px auto 17px 302px;
+  margin: -47px auto 15px 245px;
 }
 
 .u-section-1 .u-icon-1 {
@@ -33,12 +33,6 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-social-icons-1 {
     margin-left: 846px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-1 .u-text-1 {
-    margin-top: 60px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 442px;
