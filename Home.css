@@ -31,9 +31,8 @@
 }
 
 .u-section-1 .u-text-2 {
-  font-size: 1rem;
+  font-size: 1.25rem;
   font-style: normal;
-  font-weight: 700;
   margin: 20px 0 0;
 }
 
@@ -70,6 +69,10 @@
 
   .u-section-1 .u-text-1 {
     font-size: 4.5rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-weight: normal;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -812,7 +815,6 @@
 .u-section-4 .u-layout-wrap-1 {
   margin-top: 60px;
   margin-bottom: 60px;
-  min-height: 546px;
 }
 
 .u-section-4 .u-layout-cell-1 {
@@ -940,7 +942,6 @@
 
   .u-section-4 .u-layout-wrap-1 {
     margin-bottom: 59px;
-    min-height: 51px;
   }
 
   .u-section-4 .u-layout-cell-1 {
