@@ -1,0 +1,201 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 50px;
+} .u-section-2 {
+  background-image: url("images/OCSU-Banner.jpg");
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 278px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 222px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 180px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 140px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 98px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 474px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 22px auto 0 0;
+}
+
+.u-section-3 .u-list-1 {
+  margin-top: 22px;
+  margin-bottom: 50px;
+  grid-template-rows: auto;
+}
+
+.u-section-3 .u-repeater-1 {
+  grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+  grid-gap: 10px 10px;
+  min-height: 340px;
+  grid-auto-columns: calc(50% - 5px);
+}
+
+.u-section-3 .u-image-1 {
+  background-image: url("images/Card-Back-X.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px 30px 6px;
+}
+
+.u-section-3 .u-image-2 {
+  background-image: url("images/Card-Front-X.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 30px 6px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-repeater-1 {
+    min-height: 375px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-3 .u-repeater-1 {
+    min-height: 250px;
+    grid-auto-columns: calc(100% - 0px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 50vw;
+  }
+
+  .u-section-3 .u-list-1 {
+    margin-bottom: 48px;
+  }
+
+  .u-section-3 .u-repeater-1 {
+    grid-template-columns: 100%;
+    min-height: 640px;
+    grid-auto-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 570px;
+  }
+
+  .u-section-3 .u-list-1 {
+    margin-bottom: 22px;
+  }
+
+  .u-section-3 .u-repeater-1 {
+    min-height: 475px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 1062px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 22px auto 0 0;
+}
+
+.u-section-4 .u-list-1 {
+  margin-top: 22px;
+  margin-bottom: 50px;
+  grid-template-rows: auto;
+}
+
+.u-section-4 .u-repeater-1 {
+  grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+  grid-gap: 10px 10px;
+  min-height: 929px;
+  grid-auto-columns: calc(50% - 5px);
+}
+
+.u-section-4 .u-image-1 {
+  background-image: url("images/UnionPhoenix-ServerIcon2.png");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px 30px 6px;
+}
+
+.u-section-4 .u-image-2 {
+  background-image: url("images/OCSU1.png");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px 30px 6px;
+}
+
+.u-section-4 .u-image-3 {
+  background-image: url("images/UnionPhoenix-ServerIcon.png");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 30px 30px 6px;
+}
+
+.u-section-4 .u-image-4 {
+  background-image: url("images/UnionPhoenix-ProfilePic.png");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-4 {
+  padding: 30px 30px 6px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 906px;
+  }
+
+  .u-section-4 .u-list-1 {
+    margin-bottom: 60px;
+  }
+
+  .u-section-4 .u-repeater-1 {
+    min-height: 766px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-repeater-1 {
+    grid-auto-columns: calc(100% - 0px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-repeater-1 {
+    grid-template-columns: 100%;
+    grid-auto-columns: 100%;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 50px;
+}
