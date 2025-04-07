@@ -346,22 +346,23 @@
 
 @media (max-width: 767px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 2182px;
+    min-height: 1657px;
   }
 
   .u-section-6 .u-gallery-1 {
     margin-top: 30px;
+    margin-bottom: -475px;
     height: 1577px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 1413px;
+    min-height: 1083px;
   }
 
   .u-section-6 .u-gallery-1 {
-    margin-bottom: 60px;
+    margin-bottom: -270px;
     height: 993px;
   }
 }
